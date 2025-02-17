@@ -1,2 +1,2 @@
 # Project_Python
-1. Insurance Management System
+1. Insurance Management System (CLI)
